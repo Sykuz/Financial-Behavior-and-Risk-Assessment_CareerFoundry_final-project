@@ -21,9 +21,9 @@ For this project, the following python libraries were used:
 ● matplotlib - for visualization
 ● scikit-learn - for machine learning
 
-## Sources
+## Original Data Source
 External Data Source: Kaggle /IBM synthetic credit card dataset
-
-Links:
 https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/data
+
+## Tableau
 https://public.tableau.com/views/CCSpendingBehaviorAnalysisDashboard/CreditCardSpendingBehavior?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
