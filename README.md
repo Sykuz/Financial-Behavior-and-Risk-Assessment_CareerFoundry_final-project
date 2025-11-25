@@ -17,6 +17,7 @@ For this project, the following python libraries were used:
 ● pandas - for data analysis
 ● seaborn - for visualization
 ● matplotlib - for visualization
+● scikit-learn - for machine learning
 
 ## Sources
 External Data Source: Kaggle /IBM synthetic credit card dataset
